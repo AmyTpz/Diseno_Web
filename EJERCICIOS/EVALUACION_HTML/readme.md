@@ -117,28 +117,19 @@ consideren correcta.
 Preguntas:
     
 1. ¿Qué significa HTML? (valor 0.24)
-    
-        a) Home Tool Markup Language
+
         b) Hyperlinks and Text Markup Language
-        c) Hyper Text Markup Language
     
 2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24)
     
-        a) heading
-        b) hed
-        c) h6
         d) h1
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
 
-        a) lb
         b) br
-        c) break
 
 4. ¿Cuál es el HTML correcto para agregar un color de fondo? (valor 0.24)
 
-        a) <background>yellow</background>
-        b) <body bg="yellow">
         c) <body style="background-color:yellow;">
     
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
@@ -150,17 +141,11 @@ Preguntas:
     
 6. Elija el elemento HTML correcto para definir el texto enfatizado (valor 0.24)
     
-        a) italic
         b) em
-        c) i
 
 7. ¿Cuál es el HTML correcto para crear un hipervínculo? (valor 0.24)
 
-        a) <a>https://adip.cdmx.gob.mx/</a>
-        b) <a name="https://adip.cdmx.gob.mx">ADIP</a>
-        c) <a href="https://adip.cdmx.gob.mx">ADIP</a>
-        d) <a url=”https://adip.cdmx.gob.mx">ADIP</a>
-  
+        c) <a href="https://adip.cdmx.gob.mx">ADIP</a> 
   
 8. ¿Cómo puedes abrir un enlace en una nueva pestaña/ventana del navegador? (valor 0.24)
   

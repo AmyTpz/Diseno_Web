@@ -97,9 +97,9 @@ uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 
         2. <i>Congratulations!<i> </i>
         Elemento de extencion de cierre </i> 
         3. <a href="file.html">Enlace de texto</a href="file.html">   <a href="file.html">Enlace de texto</a>
-        
+        Codigo mal escrito 
         4. <p>Esto es un párrafo<\p> </p>
-        
+        Elemento de extencion de cierre </p>
 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
@@ -292,3 +292,47 @@ extensión .html
 ● No es necesario que incluyas los estilos (CSS) para cada elemento en esta
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
+
+                                <!DOCTYPE html>
+                <html lang="en">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>Evaluacion html</title>
+                </head>
+                <body>
+                    <header> 
+                        <h1>ENCABEZADO NIVEL 1</h1>
+                        <nav>
+                            <ul>
+                                <li><a href="">Enlace1</a></li>
+                                <li><a href="">Enlace2</a></li>
+                                <li><a href="">Enlace3</a></li>
+                                <li><a href="">Enlace4</a></li>
+                            </ul>
+
+                        </nav>
+                    </header>
+                    <main>
+                        <section>
+                            <h2>Encabezado nivel 2</h2>
+                            <p>Aqui va el texto del primer parrafo</p>
+                            <p>Aqui va el texto del segundo parrafo</p>
+                        </section>
+                        <aside>
+                            <h2>Apartado</h2>
+                            <p>Elije una opcion</p>
+                            <form>
+                                <input type="radio" name="Opcion">Opcion1<br>
+                                <input type="radio" name="Opcion">Opcion2<br>
+                                <input type="radio" name="Opcion">Opcion3<br>
+                                <input type="submit" name="Enviar">
+                            </form>   
+                        </aside>
+                    </main>
+                    <footer>
+                        <p>Seccion de informacion de contacto, derechos de autor, etc</p>
+                    </footer>
+                </body>
+                </html>

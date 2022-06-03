@@ -149,5 +149,72 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
           INGRESA AQUI EL CSS
           
           
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluacion</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        nav{
+          display:flex;
+          justify-content: end;
+          
+          
+        }
+        h1{
+            font-family: 'Roboto', sans-serif;
+            
+            
+        }
+        main img{
+            height: 60vh;
+            background-position: center;
+            background-size: cover;
+            background-position: center;
+            
+        }
+        h2{
+            color: #ca6702;
+            text-align: center;
+        }
+        p{
+            text-align: center;
+            background-size: 30%;
+        }
+
+    </style>
+          </head>
+          <body>
+    <header>
+     <img src="logo.svg" alt="">
+     <nav> 
+         <ul>
+             <li>Residentes</li>
+             <li>Negocios</li>
+             <li>Visitantes</li>
+             <li>Gobierno</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1> >APRENDE A PROGRAMAR EN LAS ESCUELAS DE CODIGO DE LA CDMX</h1>
+        <img src="cdmx.jpg" alt="">
+    </main>
+    <footer>
+        <h2>¿Quien se puede inscribir?</h2>
+        <p>Cualquier persona que quiera aprender a programar codigo y cuente con 4-8 horas disponibles a la semana.</p>
+        <p>Menores de edad deberan entrar a las instalaciones acompañados de un adulto</p>
+    </footer>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=Roboto:wght@100&family=Tangerine&display=swap" rel="stylesheet">
+          </body>
+          </html>
           
  Ingresa el link a tu página del proyecto final
